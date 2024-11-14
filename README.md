@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Siva-Sanam
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Machine learning model development and DevOps.
-- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me at my gmail : sanamsiva156@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Working out and playing cricket.
